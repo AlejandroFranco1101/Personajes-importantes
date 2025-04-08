@@ -7,9 +7,9 @@ button {
     background: lightblue;
     font-size: 1em;
     border: none;
-    position: relative;
-    top: 5%;
     left: 25%;
+    position: relative;
+   
     
     
     
@@ -23,7 +23,7 @@ button:hover{
 h1 {
     font-size: 4em;
     text-align: center;
-    width: 90%;
+    width: 100%;
     position: absolute;
 }
 h2 {
@@ -75,7 +75,7 @@ div.curso5 {
     background: white;
     border: 1px solid transparent;
     position: absolute;
-    top: 130%;
+    top: 135%;
     left: 5%;
 }
 div.curso6 {
@@ -84,7 +84,7 @@ div.curso6 {
     background: white;
     border: 1px solid transparent;
     position: absolute;
-    top: 130%;
+    top: 135%;
     left: 28%;
 }
 div.curso7 {
@@ -93,7 +93,7 @@ div.curso7 {
     background: white;
     border: 1px solid transparent;
     position: absolute;
-    top: 130%;
+    top: 135%;
     left: 52%;
 }
 div.curso8 {
@@ -102,7 +102,7 @@ div.curso8 {
     background: white;
     border: 1px solid transparent;
     position: absolute;
-    top: 130%;
+    top: 135%;
     left: 77%;
 }
 p {
